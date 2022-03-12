@@ -1,2 +1,2 @@
-Jurnal_03_6706213031_Muhammad Sadri
+Jurnal_03_6706213031_Muhammad Sadri <br/>
 "PROGRAM PENDATAAN PEGAWAI"

@@ -1,2 +1,2 @@
-# Singly-Linked-List-In-Java
-Jurnal_03
+Jurnal_03_6706213031_Muhammad Sadri
+"PROGRAM PENDATAAN PEGAWAI"
